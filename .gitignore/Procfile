@@ -1,1 +1,1 @@
-worker: node uranium
+worker: node uranium.js
